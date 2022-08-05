@@ -36,4 +36,5 @@ Termal kamera 55 derece üzeri bir sıaklık tespit ettiği zaman gözlem İHA�
 Projemizde hızlı ve etkili müdahale yapılması ve orman yangını büyümesini durdurması  bakımından sürü İHA teknolojisinden yararlanılıyor. 
 
 RTK yapay zeka sistemini gözlem İHA’sından gelen ısı ve ivme verilerinden yararlanıyor  . RTK yapay zeka sistemi aynı zamanda T.C. Tarım ve Orman Bakanlığı’nın CELL Orman yangını seri haberleşme sistemindeki verileri ve Metoroloji genel Müdürlüğü’nün kamuya açık meteoroloji verilerinden yararlanarak karbon-dioksit kapsüllerinin yerleştirileceği konumları  belirliyor.
+
 ![Nasa-Kolaj(Son)-01](https://user-images.githubusercontent.com/85412764/176773029-c13d577a-b679-40ca-81cf-c76bf11a12e5.jpg)
